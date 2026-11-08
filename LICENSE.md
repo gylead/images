@@ -21,7 +21,7 @@ identified on the site). Modifications by Jochen Becher, 2025-2026.
 
 ## Fonts
 
-### Topaz NG (SIL OFL 1.1) - current
+### Topaz NG (SIL OFL 1.1)
 
 `classic-computing.de/topaz-ng-classic.woff2` is "TopazNG Classic" (v0.2.6) by Campbell Barton,
 Copyright (c) 2024-2026, licensed under the [SIL Open Font License 1.1](classic-computing.de/topaz-ng/LICENSE).

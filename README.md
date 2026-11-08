@@ -11,7 +11,9 @@ See [LICENSE.md](LICENSE.md). In short:
   [classic-computing.de](https://www.classic-computing.de/) and are under
   [CC BY-NC-SA 3.0 DE](https://creativecommons.org/licenses/by-nc-sa/3.0/de/): attribution,
   non-commercial, share-alike.
-- `classic-computing.de/topaz-ng-classic.woff2` is the font **Topaz NG** by Campbell Barton, under the
+- `classic-computing.de/topaz-ng-proportional.woff2` (used by the styles) and
+  `classic-computing.de/topaz-ng-classic.woff2` (monospaced original) are the font **Topaz NG** by
+  Campbell Barton, the first one with proportional widths. Both are under the
   [SIL Open Font License 1.1](classic-computing.de/topaz-ng/LICENSE).
 - `classic-computing.de/amiga-topaz.woff2` (previous font, no longer used) is **Amiga Topaz** by
   [Patrick H. Lauke](https://fontstruct.com/fontstructions/show/675155), under
