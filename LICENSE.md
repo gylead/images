@@ -31,9 +31,9 @@ Source: <https://codeberg.org/ideasman42/font-topaz-ng>. Only converted from TTF
 glyphs with proportional advance widths instead of fixed ones, made with
 `classic-computing.de/topaz-ng/make-proportional.py`. Also under the SIL OFL 1.1, same copyright holder.
 
-### Amiga Topaz (CC BY 3.0) - previous
+### Amiga Topaz (CC BY 3.0) - pixel font
 
 `classic-computing.de/amiga-topaz.woff2` is "Amiga Topaz" by Patrick H. Lauke,
 licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 See `classic-computing.de/amiga-topaz/` for the original licence and readme.
-No longer used by the styles; kept so that older copies of the styles keep working.
+Still available as the low-resolution pixel option (see the README of gylead/classic-computing).

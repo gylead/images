@@ -15,7 +15,7 @@ See [LICENSE.md](LICENSE.md). In short:
   `classic-computing.de/topaz-ng-classic.woff2` (monospaced original) are the font **Topaz NG** by
   Campbell Barton, the first one with proportional widths. Both are under the
   [SIL Open Font License 1.1](classic-computing.de/topaz-ng/LICENSE).
-- `classic-computing.de/amiga-topaz.woff2` (previous font, no longer used) is **Amiga Topaz** by
+- `classic-computing.de/amiga-topaz.woff2` (low-resolution pixel font, optional) is **Amiga Topaz** by
   [Patrick H. Lauke](https://fontstruct.com/fontstructions/show/675155), under
   [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/). The original `license.txt` and
   `readme.txt` are in [`classic-computing.de/amiga-topaz/`](classic-computing.de/amiga-topaz/).
