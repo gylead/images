@@ -27,6 +27,10 @@ identified on the site). Modifications by Jochen Becher, 2025-2026.
 Copyright (c) 2024-2026, licensed under the [SIL Open Font License 1.1](classic-computing.de/topaz-ng/LICENSE).
 Source: <https://codeberg.org/ideasman42/font-topaz-ng>. Only converted from TTF to WOFF2.
 
+`classic-computing.de/topaz-ng-proportional.woff2` is a derivative of it ("TopazNG Proportional"): the same
+glyphs with proportional advance widths instead of fixed ones, made with
+`classic-computing.de/topaz-ng/make-proportional.py`. Also under the SIL OFL 1.1, same copyright holder.
+
 ### Amiga Topaz (CC BY 3.0) - previous
 
 `classic-computing.de/amiga-topaz.woff2` is "Amiga Topaz" by Patrick H. Lauke,
