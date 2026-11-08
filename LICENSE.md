@@ -19,8 +19,17 @@ under the same licence.
 Original authors: the respective authors named by classic-computing.de (not individually
 identified on the site). Modifications by Jochen Becher, 2025-2026.
 
-## Font (CC BY 3.0)
+## Fonts
+
+### Topaz NG (SIL OFL 1.1) - current
+
+`classic-computing.de/topaz-ng-classic.woff2` is "TopazNG Classic" (v0.2.6) by Campbell Barton,
+Copyright (c) 2024-2026, licensed under the [SIL Open Font License 1.1](classic-computing.de/topaz-ng/LICENSE).
+Source: <https://codeberg.org/ideasman42/font-topaz-ng>. Only converted from TTF to WOFF2.
+
+### Amiga Topaz (CC BY 3.0) - previous
 
 `classic-computing.de/amiga-topaz.woff2` is "Amiga Topaz" by Patrick H. Lauke,
 licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 See `classic-computing.de/amiga-topaz/` for the original licence and readme.
+No longer used by the styles; kept so that older copies of the styles keep working.
